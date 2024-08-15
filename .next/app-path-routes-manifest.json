@@ -1,0 +1,10 @@
+{
+  "/page": "/",
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found": "/_not-found",
+  "/dashboard/main/page": "/dashboard/main",
+  "/dashboard/counter/page": "/dashboard/counter",
+  "/dashboard/pokemons/page": "/dashboard/pokemons",
+  "/dashboard/pokemons/[name]/page": "/dashboard/pokemons/[name]",
+  "/dashboard/pokemon/[id]/page": "/dashboard/pokemon/[id]"
+}

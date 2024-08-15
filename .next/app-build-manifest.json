@@ -1,0 +1,99 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack-03344fba8cfd72ab.js",
+      "static/chunks/2443530c-cac3e7a072d599d8.js",
+      "static/chunks/488-d198fb987f68328a.js",
+      "static/chunks/main-app-fb23f73b3095ac5c.js",
+      "static/chunks/app/page-7961ebd4af1632a8.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-03344fba8cfd72ab.js",
+      "static/chunks/2443530c-cac3e7a072d599d8.js",
+      "static/chunks/488-d198fb987f68328a.js",
+      "static/chunks/main-app-fb23f73b3095ac5c.js",
+      "static/css/abffc5a08463ec82.css",
+      "static/chunks/app/layout-e891831251eed658.js"
+    ],
+    "/not-found": [
+      "static/chunks/webpack-03344fba8cfd72ab.js",
+      "static/chunks/2443530c-cac3e7a072d599d8.js",
+      "static/chunks/488-d198fb987f68328a.js",
+      "static/chunks/main-app-fb23f73b3095ac5c.js",
+      "static/chunks/920-4022b583b4c454ca.js",
+      "static/chunks/707-bb790903fab96ddb.js",
+      "static/chunks/app/not-found-f21bc916b190c66b.js"
+    ],
+    "/dashboard/main/page": [
+      "static/chunks/webpack-03344fba8cfd72ab.js",
+      "static/chunks/2443530c-cac3e7a072d599d8.js",
+      "static/chunks/488-d198fb987f68328a.js",
+      "static/chunks/main-app-fb23f73b3095ac5c.js",
+      "static/chunks/app/dashboard/main/page-18df58c0aa1d4948.js"
+    ],
+    "/dashboard/layout": [
+      "static/chunks/webpack-03344fba8cfd72ab.js",
+      "static/chunks/2443530c-cac3e7a072d599d8.js",
+      "static/chunks/488-d198fb987f68328a.js",
+      "static/chunks/main-app-fb23f73b3095ac5c.js",
+      "static/chunks/920-4022b583b4c454ca.js",
+      "static/chunks/707-bb790903fab96ddb.js",
+      "static/chunks/app/dashboard/layout-0bda8cfc958da9d8.js"
+    ],
+    "/dashboard/counter/page": [
+      "static/chunks/webpack-03344fba8cfd72ab.js",
+      "static/chunks/2443530c-cac3e7a072d599d8.js",
+      "static/chunks/488-d198fb987f68328a.js",
+      "static/chunks/main-app-fb23f73b3095ac5c.js",
+      "static/chunks/app/dashboard/counter/page-68bd9356022d59b4.js"
+    ],
+    "/dashboard/pokemons/page": [
+      "static/chunks/webpack-03344fba8cfd72ab.js",
+      "static/chunks/2443530c-cac3e7a072d599d8.js",
+      "static/chunks/488-d198fb987f68328a.js",
+      "static/chunks/main-app-fb23f73b3095ac5c.js",
+      "static/chunks/920-4022b583b4c454ca.js",
+      "static/chunks/707-bb790903fab96ddb.js",
+      "static/chunks/app/dashboard/pokemons/page-aa465eb38a0ce55c.js"
+    ],
+    "/dashboard/pokemons/error": [
+      "static/chunks/webpack-03344fba8cfd72ab.js",
+      "static/chunks/2443530c-cac3e7a072d599d8.js",
+      "static/chunks/488-d198fb987f68328a.js",
+      "static/chunks/main-app-fb23f73b3095ac5c.js",
+      "static/chunks/app/dashboard/pokemons/error-79a96b69fde0ee35.js"
+    ],
+    "/dashboard/pokemons/[name]/page": [
+      "static/chunks/webpack-03344fba8cfd72ab.js",
+      "static/chunks/2443530c-cac3e7a072d599d8.js",
+      "static/chunks/488-d198fb987f68328a.js",
+      "static/chunks/main-app-fb23f73b3095ac5c.js",
+      "static/chunks/707-bb790903fab96ddb.js",
+      "static/chunks/app/dashboard/pokemons/[name]/page-61ba0065e7365f69.js"
+    ],
+    "/dashboard/pokemons/[name]/not-found": [
+      "static/chunks/webpack-03344fba8cfd72ab.js",
+      "static/chunks/2443530c-cac3e7a072d599d8.js",
+      "static/chunks/488-d198fb987f68328a.js",
+      "static/chunks/main-app-fb23f73b3095ac5c.js",
+      "static/chunks/920-4022b583b4c454ca.js",
+      "static/chunks/app/dashboard/pokemons/[name]/not-found-3b553af3cac8dbe8.js"
+    ],
+    "/dashboard/pokemon/[id]/page": [
+      "static/chunks/webpack-03344fba8cfd72ab.js",
+      "static/chunks/2443530c-cac3e7a072d599d8.js",
+      "static/chunks/488-d198fb987f68328a.js",
+      "static/chunks/main-app-fb23f73b3095ac5c.js",
+      "static/chunks/707-bb790903fab96ddb.js",
+      "static/chunks/app/dashboard/pokemon/[id]/page-f501d6ceb8ed885c.js"
+    ],
+    "/dashboard/pokemon/[id]/not-found": [
+      "static/chunks/webpack-03344fba8cfd72ab.js",
+      "static/chunks/2443530c-cac3e7a072d599d8.js",
+      "static/chunks/488-d198fb987f68328a.js",
+      "static/chunks/main-app-fb23f73b3095ac5c.js",
+      "static/chunks/920-4022b583b4c454ca.js",
+      "static/chunks/app/dashboard/pokemon/[id]/not-found-51ea92cf95c98a9a.js"
+    ]
+  }
+}
